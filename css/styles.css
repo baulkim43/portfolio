@@ -1,8 +1,8 @@
-.blocks {
+.column {
   width: 300px;
-  float: right;
+  float: left;
   border: 2px solid teal;
-  padding: inherit;
+  padding: 4px;
 }
 
 img {
@@ -11,4 +11,9 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  text-align: center;
 }
