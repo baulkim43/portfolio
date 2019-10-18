@@ -1,0 +1,10 @@
+.column {
+  width: 300px;
+  float: right;
+}
+
+.container {
+  margin: 12px;
+  text-align: center;
+  padding: 4px;
+}
