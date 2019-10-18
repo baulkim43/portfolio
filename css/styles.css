@@ -3,6 +3,12 @@ body {
   background: url("../img/bground.jpg") no-repeat center center fixed;
 }
 
+.jumbotron {
+  text-align: center;
+  font-family: monospace;
+  background-color: #ff4d4d;
+}
+
 .image1 {
   border-radius: 50%;
   width: 50%;
@@ -12,19 +18,9 @@ body {
   padding-bottom: 20px;
 }
 
-.jumbotron {
-  text-align: center;
-  font-family: monospace;
-  background-color: #ff4d4d;
-}
-
 .col-md-4 {
   text-align: center;
   font-family: monospace;
-}
-
-.highlight {
-  color: red;
 }
 
 .col-md-4 h5 {
@@ -32,4 +28,8 @@ body {
   font-size: 25px;
   border: 2px solid black;
   background-color: #ff4d4d;
+}
+
+.highlight {
+  color: red;
 }

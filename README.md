@@ -1,6 +1,6 @@
 # _Paul's Portfolio_
 
-#### _Portfolio Exercise for Epicodus, 10.18.2019
+#### _Portfolio Exercise for Epicodus, 10.18.2019_
 
 #### By _**Paul Kim**_
 
